@@ -4127,6 +4127,9 @@ body{
 	display:inline-block;
 	margin-left:4px;
 }
+.no-js .owl-carousel {
+    display: flex;
+}
 /*=========================
 	End Footer CSS
 ===========================*/
