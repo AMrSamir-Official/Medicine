@@ -4130,6 +4130,10 @@ body{
 .no-js .owl-carousel {
     display: flex;
 }
+
 /*=========================
 	End Footer CSS
 ===========================*/
+section.slider {
+    overflow: hidden;
+}
